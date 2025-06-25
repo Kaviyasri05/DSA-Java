@@ -1,0 +1,4 @@
+reverse a linkedlist
+middle in a linkedlist
+palindrome in ll
+loop detection in ll
